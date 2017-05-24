@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JUsefulStuff:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JUsefulStuff_jar</output-path>
+    <root id="archive" name="JUsefulStuff.jar">
+      <element id="module-output" name="JUsefulStuff" />
+    </root>
+  </artifact>
+</component>
